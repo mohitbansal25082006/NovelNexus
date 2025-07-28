@@ -134,5 +134,4 @@ The book metadata and descriptions used in this project can be downloaded from *
 
 ## 🙌 Credits
 
-Inspired by the course: [Build a Semantic Book Recommender with LLMs – Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=some_course_link_here)
-
+Inspired by the course: [Build a Semantic Book Recommender with LLMs – Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=Q7mS1VHm3Yw&t=2512s)
