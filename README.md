@@ -2,7 +2,7 @@
 
 This repository contains all the code and assets required to build a **Semantic Book Recommender** powered by **Large Language Models (LLMs)** and deployed with **Gradio**.
 
-Inspired by the freeCodeCamp full course: **Build a Semantic Book Recommender with LLMs**, this project takes you through a modern GenAI pipeline—from vector search to LLM-based classification—all wrapped in an interactive UI.
+this project takes you through a modern GenAI pipeline—from vector search to LLM-based classification—all wrapped in an interactive UI.
 
 ---
 
@@ -59,13 +59,13 @@ python gradio-dashboard.py    # Launch the web UI
 
 ## 🔧 Installation
 
-This project was built with `Python 3.11` and tested on `Streamlit 1.35.0`.
+This project was built with `Python 3.11`
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/semantic-book-recommender.git
-cd semantic-book-recommender
+git clone https://github.com/mohitbansal25082006/NovelNexus.git
+cd NovelNexus
 ```
 
 ### 2. Create and activate environment
@@ -89,6 +89,9 @@ Create a `.env` file in the root directory and add your **OpenAI API key**:
 
 ```
 OPENAI_API_KEY=your_openai_key_here
+
+HUGGINGFACEHUB_API_TOKEN=your_huggingfacehub_token_here
+
 ```
 
 ---
@@ -133,17 +136,3 @@ The book metadata and descriptions used in this project can be downloaded from *
 
 Inspired by the course: [Build a Semantic Book Recommender with LLMs – Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=some_course_link_here)
 
----
-
-## 🧪 Want to Explore More?
-
-Try modifying:
-- The embedding model used (e.g., OpenAI vs Hugging Face)
-- The classifier prompt templates
-- Extend Gradio UI to include filters or download options
-
----
-
-## 📄 License
-
-MIT License
