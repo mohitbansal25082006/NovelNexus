@@ -1,1 +1,5 @@
 .env
+books_with_categories.csv
+books_cleaned.csv
+tagged_description.txt
+books_with_emotions.csv
