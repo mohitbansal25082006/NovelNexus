@@ -6,6 +6,12 @@ this project takes you through a modern GenAI pipeline—from vector search to L
 
 ---
 
+## 🖼️ Preview
+
+![App Screenshot](preview.png)
+
+---
+
 ## 🧠 Core Components
 
 1. **Text Data Cleaning**
